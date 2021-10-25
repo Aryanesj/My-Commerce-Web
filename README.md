@@ -6,5 +6,4 @@ well:
 1) npm i
 2) npm start
 3. thx
-
 https://ecstatic-beaver-a5e9ac.netlify.app/
