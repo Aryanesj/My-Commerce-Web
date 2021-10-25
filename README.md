@@ -1,1 +1,8 @@
-# My-Commerce-Web
+Hi!
+This is a wonderful and responsive website. :)
+I use the React basics hooks, and many, many html and css!
+Can be converted to any topic..
+well:
+1) npm i
+2) npm start
+3. thx
